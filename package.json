@@ -1,0 +1,29 @@
+{
+  "name": "yuri",
+  "version": "1.0.0",
+  "description": "Excel like table model",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "build": "webpack --mode production",
+    "dev": "webpack --mode development --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liriliri/yuri.git"
+  },
+  "author": "redhoodsu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liriliri/yuri/issues"
+  },
+  "homepage": "https://github.com/liriliri/yuri#readme",
+  "devDependencies": {
+    "ts-loader": "^4.0.0",
+    "typescript": "^2.7.2",
+    "webpack": "^4.0.1",
+    "webpack-cli": "^2.0.9"
+  }
+}
