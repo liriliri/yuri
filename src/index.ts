@@ -1,5 +1,1 @@
-import Sheet from './Sheet';
-
-export default {
-    Sheet
-};
+export {Sheet} from './Sheet';
